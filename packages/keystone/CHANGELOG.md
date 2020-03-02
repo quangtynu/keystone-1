@@ -1,5 +1,13 @@
 # @keystonejs/keystone
 
+## 5.6.1
+
+### Patch Changes
+
+- [`6975f169`](https://github.com/keystonejs/keystone/commit/6975f16959bde3fe0e861977471c94a8c9f2c0b0) [#2455](https://github.com/keystonejs/keystone/pull/2455) Thanks [@timleslie](https://github.com/timleslie)! - Refactored internals to allow providers to throw consistent errors.
+
+* [`6111e065`](https://github.com/keystonejs/keystone/commit/6111e06554a6aa6db0f7df1a6c16f9da8e81fce4) [#2436](https://github.com/keystonejs/keystone/pull/2436) Thanks [@timleslie](https://github.com/timleslie)! - Refactored `Keystone.extendGraphQLSchema()` to use a `CustomProvider` graphQL provider.
+
 ## 5.6.0
 
 ### Minor Changes
